@@ -1,0 +1,47 @@
+[
+  {
+    "course_id": "CS101",
+    "course_name": "Introduction to Programming",
+    "instructor": "Dr. Ada Lovelace",
+    "day": "Monday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "available_seats": 12
+  },
+  {
+    "course_id": "AI201",
+    "course_name": "Foundations of Artificial Intelligence",
+    "instructor": "Dr. Alan Turing",
+    "day": "Tuesday",
+    "start_time": "11:00",
+    "end_time": "12:30",
+    "available_seats": 8
+  },
+  {
+    "course_id": "DB210",
+    "course_name": "Database Systems",
+    "instructor": "Dr. Grace Hopper",
+    "day": "Wednesday",
+    "start_time": "13:00",
+    "end_time": "14:30",
+    "available_seats": 5
+  },
+  {
+    "course_id": "WEB220",
+    "course_name": "Web Development",
+    "instructor": "Dr. Tim Berners-Lee",
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "11:30",
+    "available_seats": 14
+  },
+  {
+    "course_id": "ML301",
+    "course_name": "Machine Learning",
+    "instructor": "Dr. Fei-Fei Li",
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "15:30",
+    "available_seats": 3
+  }
+]
