@@ -1,5 +1,7 @@
 """Application entry point for the Student Assistant."""
 
+import utils.transport
+import utils.session
 from dotenv import load_dotenv
 
 from agent import StudentAssistantAgent

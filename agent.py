@@ -1,4 +1,4 @@
-"""A small local Ollama loop with validated, permission-checked tools."""
+﻿"""A small local Ollama loop with validated, permission-checked tools."""
 
 import json
 import os
